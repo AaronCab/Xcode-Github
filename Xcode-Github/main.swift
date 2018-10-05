@@ -10,3 +10,12 @@ import Foundation
 
 print("Hello, World!")
 
+let day = "Friday"
+
+if day == "Friday"{
+    print("the weekend is here")
+} else {
+    print("puursuit")
+}
+
+//TODO: practice writing switch statements
